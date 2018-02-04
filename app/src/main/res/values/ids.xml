@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_resto" type="id" />
+    <item name="tv_menu" type="id" />
+    <item name="tv_porsi" type="id" />
+    <item name="tv_harga" type="id" />
+</resources>
